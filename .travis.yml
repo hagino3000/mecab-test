@@ -1,8 +1,7 @@
 before_install:
   - sudo apt-get update -qq
-  - sudo apt-get install -y libmecab2
   - sudo apt-get install -y libmecab-dev
-  - sudo apt-get install -y libmecab-util
+  - sudo apt-get install -y mecab-utils
   - sudo apt-get install -y mecab-ipadic-utf8
 language: python
 python:
