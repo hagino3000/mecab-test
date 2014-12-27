@@ -1,1 +1,1 @@
-https://mecab.googlecode.com/files/mecab-python-0.994.tar.gz
+https://mecab.googlecode.com/files/mecab-python-0.99.tar.gz
