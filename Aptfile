@@ -1,5 +1,5 @@
 python-all-dev
-libmecab
+libmecab2
 libmecab-dev
 mecab-utils
 mecab-ipadic-utf8
