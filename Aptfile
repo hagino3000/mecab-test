@@ -1,0 +1,5 @@
+python-all-dev
+libmecab
+libmecab-dev
+mecab-utils
+mecab-ipadic-utf8

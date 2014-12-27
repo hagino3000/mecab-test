@@ -1,0 +1,23 @@
+#ignore vim swap file
+.*.swp
+.lock-*
+#ignore Desktop Service Store files created by mac
+*.DS_Store
+#ignore generated files
+*.pyc
+*.pyo
+campaigns.xml
+#ignore generated files by pyenv
+.python-version
+#ignore generated files by virtualenv
+.Python
+lib
+lib64
+bin
+include
+man
+share
+local
+#ignore generated .lockfile
+.lockfile
+
